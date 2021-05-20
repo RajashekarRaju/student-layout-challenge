@@ -1,10 +1,10 @@
 # student-layout-challenge
 
-Import this repository as a templete into your android studio.
+Import this repository as a template into your android studio.
 
 You can refer to preview images in drawable folder -> res/drawable/. 
 
-Only make use of ConstraintLayout.
+Only make use of ConstraintLayout. Find layout horizontal_line.xml to copy the view line into your layouts.
 
 Once you complete building the two layouts commit those changes to the repository.
 
